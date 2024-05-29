@@ -1,0 +1,14 @@
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\OOP_KR7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\OOP_KR7.AssemblyInfoInputs.cache
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\OOP_KR7.AssemblyInfo.cs
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\OOP_KR7.csproj.CoreCompileInputs.cache
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\bin\Debug\net8.0\OOP_KR7.exe
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\bin\Debug\net8.0\OOP_KR7.deps.json
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\bin\Debug\net8.0\OOP_KR7.runtimeconfig.json
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\bin\Debug\net8.0\OOP_KR7.dll
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\bin\Debug\net8.0\OOP_KR7.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\OOP_KR7.dll
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\refint\OOP_KR7.dll
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\OOP_KR7.pdb
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\OOP_KR7.genruntimeconfig.cache
+C:\Users\unexi\Documents\KHAI\APPZ\OOP_KR7\OOP_KR7\obj\Debug\net8.0\ref\OOP_KR7.dll
